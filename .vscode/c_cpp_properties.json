@@ -3,7 +3,9 @@
         {
             "name": "Linux",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "/workspaces/MAGIC/.bibliotecas/**",
+                "/workspaces/MAGIC/.bibliotecas/basic/**"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/clang",

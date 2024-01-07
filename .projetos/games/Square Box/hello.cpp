@@ -1,6 +1,4 @@
-#include <iostream>
-
-using namespace std;
+#include ".bibliotecas/basic/basic.h"
 
 int main()
 {
