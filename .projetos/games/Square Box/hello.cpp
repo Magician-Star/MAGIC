@@ -1,4 +1,10 @@
-#include "basic.h"
+#include <iostream>
+
+
+using namespace std;
+
+
+// "../../../.bibliotecas/basic/basico.h";
 
 int main()
 {
