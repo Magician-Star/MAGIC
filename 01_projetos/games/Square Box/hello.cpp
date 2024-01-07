@@ -1,4 +1,4 @@
-#include ".bibliotecas/basic/basic.h"
+#include "basic.h"
 
 int main()
 {
