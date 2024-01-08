@@ -1,5 +1,5 @@
-#ifndef BASIC_H
-#define BASIC_H
+#ifndef BASIC_H_INCLUDED
+#define BASIC_H_INCLUDED
 
 #include <iostream>
 
